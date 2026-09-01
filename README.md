@@ -1,4 +1,4 @@
-# UAV Systems Integration – Internship Experience
+# UAV Systems Integration – Experience
 
 ## Overview
 
