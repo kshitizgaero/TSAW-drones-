@@ -66,3 +66,18 @@ vacuum-bagging process.
 **Manufacturing:** Hand Lay-up, Vacuum Bagging
 
 **Application:** UAV Structural Fabrication
+
+---
+
+## Supporting Documentation
+
+Selected photographs of notes and documentation recorded during the
+composite fabrication work.
+
+### Fabrication Notes
+
+![Composite Fabrication Notes 1](images/composite_fabrication_notes_01.jpg)
+
+![Composite Fabrication Notes 2](images/composite_fabrication_notes_02.jpg)
+
+![Composite Fabrication Notes 3](images/composite_fabrication_notes_03.jpg)
